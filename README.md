@@ -1,2 +1,3 @@
 # pinlabs-ci3
-Codeigniter PHP frameworks testing and research
+Created on Jan 28, 2021
+This repository is specially for testing and research with Codeigniter v.3 (PHP frameworks).
